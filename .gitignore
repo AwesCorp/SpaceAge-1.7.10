@@ -1,0 +1,11 @@
+# everything
+/*
+
+# folders
+!/src
+!/api
+
+# files
+!/.gitignore
+!/.gitmodules
+!/README.md
