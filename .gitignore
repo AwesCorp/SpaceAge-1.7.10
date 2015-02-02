@@ -1,9 +1,13 @@
 # everything
-/*
+*
 
 # folders
-!/src
-!/api
+!/forge/src/main
+!build.gradle
+!*.project
+!/gradle
+!gradlew
+!gradlew.bat
 
 # files
 !/.gitignore
