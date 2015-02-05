@@ -1,0 +1,9 @@
+package spaceage.common;
+
+import cpw.mods.fml.common.Mod;
+
+@Mod(modid="SA",name="")
+
+public class Test {
+
+}

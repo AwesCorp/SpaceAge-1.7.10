@@ -4,7 +4,6 @@
 
 *.pydevproject
 .project
-.metadata
 bin/
 tmp/
 *.tmp
@@ -16,7 +15,6 @@ local.properties
 .settings/
 .loadpath
 build/
-eclipse/
 .gradle
 CREDITS-fml.txt
 forge/forge-1.7.10-10.13.2.1291-changelog.txt
